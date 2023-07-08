@@ -80,7 +80,7 @@ They are very well the same person. Anuke(n) uses "Anuken" when "Anuke" is taken
 
 ## Why are you charging for the game on Steam and iOS when it is available for free?
 
-The game is being charged for on Steam because it is one way of supporting Anuke, and it has features not available on the free versions, such as:
+The game is being charged for on Steam and iOs because it is one way of supporting Anuke. The Steam version has features not available on the free versions, such as:
 
 - A map, mod, and schematic browser
 - Secure, seamless multiplayer using Steam Multiplayer (eliminates the need to port-forward)
